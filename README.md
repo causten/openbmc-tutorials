@@ -10,4 +10,4 @@ placed links.
 3. [Watch the bus](lessonwatch.md)
 4. [Hop on the bus](lessonbusmethod.md)
 5. [Get in the flash](lessonaddtoflash.md)
-5. [Test with Robot](lessonrobot101.md)
+6. [Test with Robot](lessonrobot.md)
