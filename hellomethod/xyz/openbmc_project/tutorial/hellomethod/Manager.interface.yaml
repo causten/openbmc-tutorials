@@ -1,0 +1,15 @@
+description: >
+    Some simple method that exposes a method on dbus
+methods:
+    - name: Commit
+      description: >
+          You call this and a print should appear 
+      parameters:
+        - name: transactionId
+          type: int32
+          description: >
+              Example allows for numbers and strings
+        - name: msg
+          type: string
+          description: >
+              The msg that was sent
